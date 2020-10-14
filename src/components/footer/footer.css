@@ -1,0 +1,33 @@
+.site-footer {
+  margin: 0;
+  padding: 15px 0 0 0;
+  border-top: 1px solid #8a8a8a;
+}
+.footer-logo-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-logo {
+  margin: 0 15px 10px 15px;
+}
+
+.ratings-list {
+  list-style-type: none;
+  color: #ffffff;
+  font-size: 11px;
+  margin: 0;
+  padding: 0;
+}
+
+.ratings-list li {
+  margin: 5px 0;
+  padding: 0;
+}
+
+.footer-copyright-text {
+  margin-top: 10px;
+  color: #ffffff;
+  font-size: 9px;
+}
